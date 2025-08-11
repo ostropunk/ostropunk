@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning data science on coursera
-- 🔭 I’m currently working on rfid-controlled musicbox to remote controll spotify
+- 🌱 I’m tinkering with stuff
+- 🔭 I’m currently working on different personal projects like disconnecting myself from the corporate webb.
 - ⚡ Fun fact: mostly doing this for fun
 
 <!--
